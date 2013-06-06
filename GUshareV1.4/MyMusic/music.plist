@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>toShare</key>
+		<array>
+			<dict>
+				<key>itemname</key>
+				<string>book to share</string>
+				<key>sharedby</key>
+				<string>Abdullah</string>
+				<key>from</key>
+				<string>2013-06-05T06:46:26Z</string>
+				<key>to</key>
+				<string>2013-06-05T06:46:30Z</string>
+				<key>description</key>
+				<string>elouefe rlfrg rgu;rgr rlrg hrgrg;r</string>
+				<key>image</key>
+				<string>inside_apple.jpg</string>
+			</dict>
+			<dict>
+				<key>itemname</key>
+				<string>Ride</string>
+				<key>sharedby</key>
+				<string>Sara</string>
+				<key>from</key>
+				<string>2013-06-03</string>
+				<key>to</key>
+				<string>2013-06-04</string>
+				<key>description</key>
+				<string>elouefe rlfrg rgu;rgr rlrg hrgrg;r</string>
+				<key>image</key>
+				<string>car.jpg</string>
+			</dict>
+			<dict>
+				<key>itemname</key>
+				<string>room near halban</string>
+				<key>sharedby</key>
+				<string>Hisham</string>
+				<key>from</key>
+				<string>2013-06-06</string>
+				<key>to</key>
+				<string>2013-06-06</string>
+				<key>description</key>
+				<string>elouefe rlfrg rgu;rgr rlrg hrgrg;r</string>
+				<key>image</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>itemname</key>
+				<string>ride to ruwi</string>
+				<key>sharedby</key>
+				<string>Waqar</string>
+				<key>from</key>
+				<string>2013-06-01</string>
+				<key>to</key>
+				<string>2013-06-04</string>
+				<key>description</key>
+				<string>elouefe rlfrg rgu;rgr rlrg hrgrg;r</string>
+				<key>image</key>
+				<string>inside_apple.jpg</string>
+			</dict>
+			<dict>
+				<key>itemname</key>
+				<string>room for a girl</string>
+				<key>sharedby</key>
+				<string>fauz</string>
+				<key>from</key>
+				<string>2013-06-03</string>
+				<key>to</key>
+				<string>2013-06-08</string>
+				<key>description</key>
+				<string>elouefe rlfrg rgu;rgr rlrg hrgrg;r</string>
+				<key>image</key>
+				<string>inside_apple.jpg</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>To Share</string>
+	</dict>
+</array>
+</plist>
